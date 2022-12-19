@@ -397,8 +397,8 @@ public enum GrabbagImageSource implements CardImageSource {
         singleLinks.put("SWS/Luke Skywalker, the Last Jedi", "WMmQcyD.jpg");
         singleLinks.put("SWS/Vulptex", "30WeCkw.jpg");
         singleLinks.put("SWS/Glorious Charge", "yJwvKzk.jpg");
-        singleLinks.put("SWS/Plains-520b", "Fx59r9J.jpg");
-        singleLinks.put("SWS/Island-520a", "jIPpWp5.jpg");
+        singleLinks.put("SWS/Plains-e", "Fx59r9J.jpg");
+        singleLinks.put("SWS/Island-e", "jIPpWp5.jpg");
         singleLinks.put("SWS/Conscription", "An01yAe.jpg");
         singleLinks.put("SWS/Afterburn", "2ydqSvT.jpg");
         singleLinks.put("SWS/Corellian Gunship", "mZdDQWH.jpg");
@@ -449,12 +449,45 @@ public enum GrabbagImageSource implements CardImageSource {
         singleLinks.put("SWS/War Room", "pqQ9kzt.jpg");
         singleLinks.put("SWS/Xyston Star Destroyer", "oqbHtUC.jpg");
         singleLinks.put("SWS/Zorii Bliss", "vOyNE39.jpg");
+        singleLinks.put("SWS/Ahsoka Tano, Rogue Jedi-a", "uqucDX5.jpg");
+        singleLinks.put("SWS/Ahsoka Tano, Rogue Jedi-b", "404d5t0.jpg");
+        singleLinks.put("SWS/CT-7567, Captain Rex", "qmJZ9xx.jpg");
+        singleLinks.put("SWS/Demolitions Trooper", "Bb5TOGx.jpg");
+        singleLinks.put("SWS/Evade the Empire", "Yw61DsN.jpg");
+        singleLinks.put("SWS/Ezra Bridger", "MPy7Bu4.jpg");
+        singleLinks.put("SWS/Fateful Showdown", "TYctcX4.jpg");
+        singleLinks.put("SWS/Feral Loth-Cat", "DcjuM96.jpg");
+        singleLinks.put("SWS/Fulcrum Intelligence", "yqusCmc.jpg");
+        singleLinks.put("SWS/Garazeb Orrelios", "Pq2UQm7.jpg");
+        singleLinks.put("SWS/Grand Admiral Thrawn-a", "3dMYxAd.jpg");
+        singleLinks.put("SWS/Grand Admiral Thrawn-b", "WJTYq0F.jpg");
+        singleLinks.put("SWS/Heart of the Rebellion", "XfektoT.jpg");
+        singleLinks.put("SWS/Hera Syndulla", "VXyMiFc.jpg");
+        singleLinks.put("SWS/Imperial Hotshot", "Fa7rC3W.jpg");
+        singleLinks.put("SWS/Imperial Inquisition", "ty3UGIF.jpg");
+        singleLinks.put("SWS/Imperial Power Play", "UeR0z6j.jpg");
+        singleLinks.put("SWS/Imperial Security Officer", "GB2L4vB.jpg");
+        singleLinks.put("SWS/Island-f", "JF2HI2p.jpg");
+        singleLinks.put("SWS/Kallus, Imperial Traitor", "x7sfLRx.jpg");
+        singleLinks.put("SWS/Kanan Jarrus, Hidden Jedi", "Nd0fbya.jpg");
+        singleLinks.put("SWS/Loth-Wolf Pack", "vNGuhy6.jpg");
+        singleLinks.put("SWS/Quiet Ending", "oKf8UV1.jpg");
+        singleLinks.put("SWS/Rebel Astromechs", "U2pKNUD.jpg");
+        singleLinks.put("SWS/Recover", "TQC50Sj.jpg");
+        singleLinks.put("SWS/Sabine Wren", "Lry2NyI.jpg");
+        singleLinks.put("SWS/Savage Smash", "t8aGXwk.jpg");
+        singleLinks.put("SWS/Saved by the Rebellion", "RafmUev.jpg");
+        singleLinks.put("SWS/Spark of Rebellion", "XR2BUCH.jpg");
+        singleLinks.put("SWS/The Darksaber", "ghpszDs.jpg");
+        singleLinks.put("SWS/The Ghost", "k7YERd6.jpg");
+        singleLinks.put("SWS/Trooper Medic", "Xg2bu4Z.jpg");
 
         // Emblems
         singleLinks.put("SWS/Emblem Obi-Wan Kenobi", "Qyc10aT.png");
         singleLinks.put("SWS/Aurra Sing", "BLWbVJC.png");
         singleLinks.put("SWS/Yoda", "zH0sYxg.png");
         singleLinks.put("SWS/Emblem Luke Skywalker", "kHELZDJ.jpg");
+        singleLinks.put("SWS/The Monarch", "dja7dfE.jpg");
 
         // Tokens
         singleLinks.put("SWS/Ewok", "N2MvJyr.png");
@@ -469,6 +502,9 @@ public enum GrabbagImageSource implements CardImageSource {
         singleLinks.put("SWS/Droid", "4PRrWFF.png");
         singleLinks.put("SWS/Trooper 2", "tcxvGOn.jpg");
         singleLinks.put("SWS/Porg", "HBjt1A3.jpg");
+        singleLinks.put("SWS/Inquisitor", "5A5bIm8.jpg");
+        singleLinks.put("SWS/Rebel 2", "0QxhYtB.jpg");
+        singleLinks.put("SWS/Wolf Beast", "xxMtTjd.jpg");
     }
 
     @Override

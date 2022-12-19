@@ -372,6 +372,7 @@ public enum SubType {
     TIEFLING("Tiefling", SubTypeSet.CreatureType),
     TRANDOSHAN("Trandoshan", SubTypeSet.CreatureType, true), // Star Wars
     THRULL("Thrull", SubTypeSet.CreatureType),
+    TOGRUTA("Togruta", SubTypeSet.CreatureType, true), // Star Wars
     TREEFOLK("Treefolk", SubTypeSet.CreatureType),
     TRISKELAVITE("Triskelavite", SubTypeSet.CreatureType),
     TROLL("Troll", SubTypeSet.CreatureType),
