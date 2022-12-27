@@ -128,7 +128,7 @@ public final class StarWars extends ExpansionSet {
         cards.add(new SetCardInfo("Ewok Firedancers", 135, Rarity.COMMON, mage.cards.e.EwokFiredancers.class));
         cards.add(new SetCardInfo("Ewok Village", 241, Rarity.UNCOMMON, mage.cards.e.EwokVillage.class));
         cards.add(new SetCardInfo("Exogorth", 136, Rarity.RARE, mage.cards.e.Exogorth.class));
-        cards.add(new SetCardInfo("EzraBridger", 817, Rarity.RARE, mage.cards.e.EzraBridger.class));
+        cards.add(new SetCardInfo("Ezra Bridger", 817, Rarity.RARE, mage.cards.e.EzraBridger.class));
         cards.add(new SetCardInfo("Fateful Showdown (Star Wars)", 801, Rarity.UNCOMMON, mage.cards.f.FatefulShowdownStarWars.class));
         cards.add(new SetCardInfo("Fathier", 505, Rarity.COMMON, mage.cards.f.Fathier.class));
         cards.add(new SetCardInfo("Feral Loth-Cat", 813, Rarity.COMMON, mage.cards.f.FeralLothCat.class));
